@@ -1,42 +1,60 @@
+<p align="center">
+  <img src="" alt="Hi there!">
+</p>
 
 ## Hi, I'm Rishabh! 👋
-A Product Manager and Analytics Leader passionate about building data-powered products that scale.
+A Product Manager with a foundation in engineering and analytics, passionate about building data-powered products that scale.
 
-With hands-on experience across product analytics, A/B testing, pricing optimization, and funnel design, I blend quantitative rigor with business intuition to drive impact. I enjoy working at the intersection of data, design, and decision-making.
+I've led teams and shipped outcomes across fintech, analytics platforms, and consumer apps — combining deep user empathy with data-driven decision-making. I thrive in fast-paced, zero-to-one environments, and enjoy solving real-world problems with scalable, data-backed solutions.
 
 ---
+
 
 ### 💡 My Expertise
-- **Attribution Modeling**, Funnel Analysis, Experimentation Frameworks  
-- **Growth Analytics**, Conversion Rate Optimization, Retention Strategy  
-- **Pricing Analytics**, Revenue Forecasting, Segmentation  
-- **Product Strategy**, Wireframing, Stakeholder Alignment  
-- **ML & Data Science** for Product Use-Cases — LTV Prediction, Churn Modeling, NLP
+- **Product Analytics**: Funnel Optimization, A/B Testing, Attribution Modeling  
+- **Data Products**: Real-time Analytics Platforms, ML-Driven Tools, Self-serve Dashboards  
+- **Fintech & SaaS**: Digital Investment, Fraud Detection, Crowdfunding, Credit Union Apps  
+- **Product Strategy**: Roadmapping, Experiment Design, P&L Ownership, Feature Prioritization  
+- **Cross-functional Leadership**: Engineering, Design, Marketing, Data Science Alignment
 
 ---
 
+
+
 ### 🛠️ Tech Stack & Tools
-**Languages:** SQL, Python, R  
-**Frameworks & Tools:** scikit-learn, pandas, NumPy, Tableau, dbt, Metabase  
-**Experimentation:** GA4, BigQuery, Optimizely, custom A/B frameworks  
-**Infra & Realtime Analytics:** Kafka, Spark, Superset, Flink  
-**Product/Design:** Figma, JIRA, Git, Postman, Mixpanel
+
+| Category                  | Tools & Technologies                                                                 |
+|--------------------------|---------------------------------------------------------------------------------------|
+| **Languages & Analytics**| SQL, Python, R                                                                        |
+| **Tools & Platforms**    | BigQuery, GA4, Looker, Amplitude, Mixpanel, CleverTap, Metabase, Tableau              |
+| **Product & Design**     | Figma, JIRA, Miro, Excel, Slack, Git, Postman                                         |
+| **Infra & Real-time**    | Kafka, Spark, Custom Clickstream Pipelines                                            |
 
 ---
 
 ### 🚀 Selected Work
-- 💳 **Multi-touch Attribution Model** for a credit union to optimize marketing spend  
-- 🧪 **Multivariate Test Design** for a travel insurance product, preserving $2M ARR  
-- 📈 **Clickstream Analytics Pipeline** to power real-time decisioning across funnels  
-- 🤖 **Chrome Extension** for Whisper-based voice-to-text across Windows apps  
-- 📊 **B2B Pricing Optimization** using segmentation and discrete choice models
+- 💳 **Multi-touch Attribution Model** at a credit union: Reduced cost per acquisition by 10%  
+- 📱 **Application Flow Redesign**: Drove 10% lift in conversions for new member onboarding  
+- ⚡ **Real-time Analytics Platform** at Paytm: Supported 24B+ daily events; improved decision speed by 40%  
+- 🧠 **Pulse AI Chatbot**: Reduced analyst workflow time; boosted productivity by 20%  
+- 💼 **Investment SaaS Product**: Drove 150% investment growth in 3 months; secured $1.2M funding  
+- 🔒 **Fraud Detection Engine**: Prevented $120K fraud, improved trust metrics with real-time alerts
+
+  
 - [🔗 View My Portfolio](https://shukla221b.github.io/Portfolio/)
 ---
 
 ### 🌱 Currently
-- Exploring **AI-first product experiences**  
+- Interviewing for **PM roles** at data-forward companies  
+- Experimenting with side projects in browser extensions and lightweight ML apps
 - Writing on **product strategy, analytics, and growth**  
-- Interviewing for **PM roles in data-heavy teams**
+
+---
+
+### 🎓 Education
+- MSBA – University of California, Davis  
+- MBA – IIM Ahmedabad  
+- B.Tech – IIT Jodhpur (Computer Science)
 
 ---
 
